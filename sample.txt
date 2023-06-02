@@ -1,3 +1,4 @@
 サル先生のgitコマンド
 add 変更をindexに登録する
 commit indexの状態を記録する
+pull pullの説明を追加
