@@ -1,2 +1,3 @@
 サル先生のgitコマンド
 add 変更をindexに登録する
+pull pullの説明を追加
